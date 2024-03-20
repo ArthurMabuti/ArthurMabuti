@@ -15,6 +15,7 @@
     <img alt="dotnetcore" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="dotnet" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
     <img alt="vscode" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</div><br/>
+    <br/>
+    Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+</div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
