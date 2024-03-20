@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMabuti&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMabuti&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## 👨‍💻 Tecnologias que eu uso no meu dia
 
 <div align="center"style="display: inline_block"><br/>
     <img alt="csharp" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -18,4 +18,3 @@
     <br/>
     Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 </div>
-
