@@ -1,6 +1,6 @@
 ### Olá, eu sou Arthur Mabuti! Seja bem vindo(a) ao meu perfil GitHub! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMabuti&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMabuti&show_icons=true&theme=radical)
 <!--
 **ArthurMabuti/ArthurMabuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
