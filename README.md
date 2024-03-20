@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou Arthur Mabuti! Seja bem vindo(a) ao meu perfil GitHub! 👋
 
 <!--
 **ArthurMabuti/ArthurMabuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
