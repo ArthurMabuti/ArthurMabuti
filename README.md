@@ -1,5 +1,5 @@
 ### Olá, eu sou Arthur Mabuti! Seja bem vindo(a) ao meu perfil GitHub! 👋
- 💫 #desenvolvimento, #.NET, #tecnologia, #computação e #games
+ 💫 #desenvolvimento, #.NET, #tecnologia e #computação
 
 ##  🌐 Redes Sociais: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-mabuti-229810172/)
